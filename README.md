@@ -36,5 +36,7 @@ jhon the ripper
 cisco packet tracer
 cisco network acedamy
 netcad
+pnpt certification and pjpt
+
 
   
