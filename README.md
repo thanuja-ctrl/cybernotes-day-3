@@ -43,5 +43,28 @@ extensions
 bscp
 cve.org
 suid
+sandbox
+rootme
+enumuration
+they use sandbox to analyse the malware
+snmp protocol to find the mail,domains
+metaaploitable is a virtual machine
+metasploit is a tool
+dig 
+reverse lookup ip finds the doimain name
+cname
+nbstat
+jxexplorer
+active direcrtory
+kerberbos
+cisco adedemy
+orgaizational units
+active window 
+asure cloud
+nessus
+vulnerability analysis
+openvas
+
+
 
   
