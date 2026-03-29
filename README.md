@@ -65,6 +65,13 @@ nessus
 vulnerability analysis
 openvas
 
+broken mirrors to find password
+image user password
+ubuntu user name
+pass 1234
+sqid
+path hijacking
+cimera cryptography privilage discussion
 
 
   
