@@ -72,6 +72,7 @@ pass 1234
 sqid
 path hijacking
 cimera cryptography privilage discussion
+IMAGE UBUNTU PASSWORD HIJACKING
 
 
   
