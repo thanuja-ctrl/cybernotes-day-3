@@ -23,6 +23,13 @@ xor(exclusively or)
 
 1 1  1 0 
 8 4 2 = 14 
+nmap -sn ipyour
+net discover -r ip to find ip
+nmap -sv  ipfor version
+ftp
+websites nvd,cve,exploit db
+tools searchsploit
+metasploit
 data + key = data
 diffe hellman key exchange
 hashing 
@@ -73,6 +80,21 @@ sqid
 path hijacking
 cimera cryptography privilage discussion
 IMAGE UBUNTU PASSWORD HIJACKING
+
+
+cd path image
+seginography
+tols
+steghide to extract the hidden files
+exiftool 
+using jhon ripper we can hack the crash
+file 
+strings
+ghidra reverse engineering
+binwalk
+file
+strings
+strace
 
 
   
