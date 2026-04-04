@@ -96,5 +96,14 @@ file
 strings
 strace
 
+arch linux
+wafoof tool
+docker container
+zamp tool
+postman tools
+stonebreaker
+olama au
+l3mon -mobile hacking
+ ttx 
 
   
