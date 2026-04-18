@@ -94,8 +94,7 @@ ghidra reverse engineering
 binwalk
 file
 strings
-strace
-
+stracesink attack
 arch linux
 wafoof tool
 docker container
@@ -109,6 +108,13 @@ l3mon -mobile hacking
  testfire.net
  better
  session hijacking
+ mac spoofing
+ kissnet
+ ether
+ sinkattack
+ macchanger
+ arp spoofing
+ get put post put delete in wireshark
  
 
   
