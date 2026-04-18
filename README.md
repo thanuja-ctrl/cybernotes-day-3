@@ -116,6 +116,9 @@ l3mon -mobile hacking
  arp spoofing
  get put post put delete in wireshark
  hping3 tool
+ slowloris
+ goldeneye
+ 
  
 
   
