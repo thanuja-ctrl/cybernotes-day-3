@@ -118,6 +118,47 @@ l3mon -mobile hacking
  hping3 tool
  slowloris
  goldeneye
+ wifi hacking
+ wieless encrption standard
+ wireless attacks:
+ wpa2 handshake capture:
+ karma attack
+ evil twin attack
+ wps attack
+ la usb 
+ ip config
+ airmone ng check kill
+ airmone ng tool statrt
+ airmo dumb ng w lan 0
+ obisdian
+ bssid mac id
+ pwr 
+ beacons
+ data
+ ch channel
+ mb max speed
+ enc encryption
+ cipher
+ auth authentication
+ essid- network name
+ psk
+ aireplay-ng
+ de authenticatin attack
+ aircrack  -ng 
+ wifight tool
+ sudo apt indtall realtek-rtl88xxau-dkms
+ live boot 
+evil tin attack 
+wifi fisherr
+persistent os
+tail os
+
+
+ 
+ 
+ 
+ 
+ 
  
  
 
