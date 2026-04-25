@@ -152,6 +152,7 @@ evil tin attack
 wifi fisherr
 persistent os
 tail os
+prompt cloth
 
 
  
